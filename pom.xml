@@ -55,7 +55,7 @@
     <repositories>
         <repository>
             <id>openshift-repository</id>
-            <url>https://mirror.openshift.com/nexus/content/groups/public</url>
+	    <url>https://maven.repository.redhat.com/ga/org/jboss/bom/eap/jboss-javaee-6.0-with-tools/6.4.0.GA/</url>
         </repository>
     </repositories>
 
